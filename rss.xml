@@ -4,7 +4,7 @@
         <description><![CDATA[sreshtasays]]></description>
         <link>https://thegrid.ai/sreshtasays/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 07:00:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 07:08:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sreshtasays/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://twitter.com/sreshtasays</link>
             <guid isPermaLink="false">6fb15c8d-c5de-42fb-94eb-5ab93c831df8</guid>
             <pubDate>Mon, 18 Jan 2016 06:57:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Functional Programming Is + Why It Makes You Better]]></title>
+            <description><![CDATA[<article><h1>What Functional Programming Is + Why It Makes You Better</h1><p>When a programmer sits down to start a new project they have a few decisions to make, the chief one being how they should write the program. Coding is a lot more creative than it is given credit for.</p><img src="https://cdn-images-1.medium.com/max/800/0*DL9zakp4AYCQP3UK.jpg"></article>]]></description>
+            <link>https://thegrid.ai/sreshtasays/what-functional-programming-is-why-it-makes-you-better/index.html</link>
+            <guid isPermaLink="false">e9c68068-58a4-4921-a512-366b11dd4824</guid>
+            <pubDate>Mon, 18 Jan 2016 07:08:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
