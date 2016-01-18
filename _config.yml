@@ -1,0 +1,28 @@
+name: sreshtasays
+favicon: null
+layout_spectrum: 0.8107572146691382
+typography_spectrum: 0.748874926706776
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.343085264088586
+  lightness: 0.28431288595311344
+  saturation: 0.14168562646955252
+  rhythmicContrast: 0.9587498337496072
+purpose: []
